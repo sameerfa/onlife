@@ -1,0 +1,18 @@
+{
+  "name": "onlife",
+  "version": "1.0.0",
+  "description": "decentralized cli forum",
+  "main": "index.js",
+  "scripts": {
+    "chat": "index.js"
+  },
+  "repository": "https://github.com/sameerfa/onlife",
+  "author": "sameerfa",
+  "license": "MIT",
+  "dependencies": {
+    "@textile/js-http-client": "^1.1.0",
+    "cac": "^6.7.11",
+    "chalk": "^4.1.2",
+    "node-emoji": "^1.11.0"
+  }
+}
